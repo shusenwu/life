@@ -30,7 +30,7 @@ I am currently under the process of applying OPT and I think it will start on Ma
 ### What is your understanding of this position and what interests you in this position?
 ### What do you know about EDG and what aspects of EDG interest you？  
 Well, what I know about EDG is that it is a general group not a specific team focus on a specific area. It
-provides new graduate students different projects and different teams to choose. It is also like a launch pad for
+provides new graduate students with different projects and different teams to choose. It is also like a launch pad for
 young enginner who are unsure what to pursue. This is also the aspect which interests me. Because it would be better if I can choose
 an area or a team after I lean more.
 
@@ -39,10 +39,10 @@ Well, I am familiar with Java and Python and have work experence with these two 
 development position using JAVA and Python will be a good choise for me.
 
 ### Explain one of the recent projects that you are proud of and why it is important? Include your role in this project. 
-Well, I built a novel website as a team leader and sold it for abount 1000 dollars. I did all the back-end code, UI design and deployed
+Well, I built a novel website as a team leader and sold it for abount 1000 dollars. I did all the back-end code and UI design and deployed it
 on a linux server. I also wrote a novel website crawler to collect novels for my novel website. It was not my first time to do a whole
 project by my own but it was still important for me because I did leaned a lot from it. For example, it was my first time to meet the 
-situation of running out of inodes on ubuntu server since there were to many novel files on it. And I think these experience may
+situation of running out of inodes on ubuntu server since there were to many novel files on it. I have to transfer the data to another disk and format the original one and then set up a very large number of inodes. I think these experience of solving problems may
 help me in the future work.
 
 ### GPA? (1 min)   
@@ -51,3 +51,7 @@ My overall academic GPA by now is 3.93.
 ### Expected graduation date? (2 min)   
 I am expected to graduate on May 19th.
 
+### ========
+### ### 
+### ### 
+### ### 
