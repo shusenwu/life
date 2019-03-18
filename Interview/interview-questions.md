@@ -22,7 +22,7 @@ deal with high-level synchronous. I also learned how to depolyed a project on Li
 skills and experiences may help me in the future work.
 
 ### Are you currently authorized to work in the United States without restriction? Would you need sponsorship now or in the future? 
-I have a student F-1 visa and I am under the process of applying OPT. I will need the company sponsor H1B visa.
+I have a student F-1 visa and I am under the process of applying OPT. I will need the company sponsor me H1B visa.
 
 ### When will your OPT start?  
 I am currently under the process of applying OPT and I think it will start on May after I graduate from university.
@@ -42,7 +42,7 @@ development position using JAVA and Python will be a good choise for me.
 Well, I built a novel website as a team leader and sold it for abount 1000 dollars. I did all the back-end code and UI design and deployed it
 on a linux server. I also wrote a novel website crawler to collect novels for my novel website. It was not my first time to do a whole
 project by my own but it was still important for me because I did leaned a lot from it. For example, it was my first time to meet the 
-situation of running out of inodes on ubuntu server since there were to many novel files on it. I have to transfer the data to another disk and format the original one and then set up a very large number of inodes. I think these experience of solving problems may
+situation of running out of inodes on a ubuntu server since there were to many novel files on it. I have to transfer the data to another disk and format the original one and then set up a very large number of inodes. I think these experience of solving problems may
 help me in the future work.
 
 ### GPA? (1 min)   
