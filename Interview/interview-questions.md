@@ -1,5 +1,8 @@
 面试问题
 ====
+### 自我介绍  
+Hi, my name is Shusen Wu. You can call me Shusen. I am a graduate student from George Washington University majored in Computer Science with a 3.93 GPA. I am expected to graduate on May this year. I have about one year work experience and I am familiar with Python and JAVA. 
+
 
 ### Explain why your backgroud and experience would be a good fit for this job.  
 
