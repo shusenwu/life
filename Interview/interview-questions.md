@@ -1,7 +1,7 @@
 面试问题
 ====
 ### 自我介绍  
-Hi, my name is Shusen Wu. You can call me Shusen. I am a graduate student from George Washington University majored in Computer Science with a 3.93 GPA and expected to graduate in May this year. I have about one year work experience and I am familiar with Python and JAVA. I have ever built a novel website with more than 1K users and sold it for about $1000. I built everything from database design, back-end design to UI design. I also led a team to built a campus application based on wechat without using any third-party code and had more than 5k users when I was undergraduate.
+Hi, my name is Shusen Wu. You can call me Shusen. I am a graduate student from George Washington University majored in Computer Science with a 3.93 GPA and expected to graduate in May this year. I have about one year work experience and I am familiar with Python and JAVA. Besides, I have ever built a novel website with more than 1K users and sold it for about $1000. I built everything from database design, back-end design to UI design. I also led a team to built a campus application based on wechat without using any third-party code and had more than 5k users when I was undergraduate.
 
 
 ### Explain why your backgroud and experience would be a good fit for this job.  
