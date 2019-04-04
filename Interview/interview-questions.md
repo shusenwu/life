@@ -54,7 +54,8 @@ My overall academic GPA by now is 3.93.
 ### Expected graduation date? (2 min)   
 I am expected to graduate on May 19th.
 
-### ========
-### ### 
-### ### 
-### ### 
+---
+### What do you know about EDG?
+I have asked Jim about this position. And he told me that for the EDG position, there will be a 3 months tranning, and after that, the candicates will be put on the support engineer job. And once the candicate feel confident, he can ask to join a team. Is that right?
+### What is your interest?
+I am interested in back-end develpment positions using Java or Python. Is there any team in EDG doing distributed systems? Cause I am really interested in this area.
