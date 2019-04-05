@@ -57,6 +57,9 @@ I am expected to graduate on May 19th.
 ---
 ### What do you know about EDG?
 I have asked Jim about this position. And he told me that for the EDG position, there will be a 3 months tranning, and after that, the candicates will be put on the support engineer job. And once the candicate feel confident, he can ask to join a team. Is that right?  
-He also told me that I will always have the resources for answering customer's questions.
+He also told me that I will always have the resources for answering customer's questions.  
+What are the challanges of this job?  
+What kind of projects the team is doing?  
+How does the company measure performance?  
 ### What is your interest?
 I am interested in back-end develpment positions using Java or Python. Is there any team in EDG doing distributed systems? Cause I am really interested in this area.
