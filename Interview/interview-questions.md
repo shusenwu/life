@@ -62,4 +62,4 @@ What are the challanges of this job?
 What kind of projects the team is doing?  
 How does the company measure performance?  
 ### What is your interest?
-I am interested in back-end develpment positions using Java or Python. Is there any team in EDG doing distributed systems? Cause I am really interested in this area.
+I am interested in back-end develpment positions using Java or Python. Is there any team in EDG doing distributed systems or big data? Cause I am really interested in these areas.
