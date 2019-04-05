@@ -56,7 +56,8 @@ I am expected to graduate on May 19th.
 
 ---
 ### What do you know about EDG?
-I have asked Jim about this position. And he told me that for the EDG position, there will be a 3 months tranning, and after that, the candicates will be put on the support engineer job. And once the candicate feel confident, he can ask to join a team. Is that right?  
+I have asked Jim about this position. And he told me that for the EDG position, there will be a 3 months tranning, and after that, the candicates will be put on the support engineer job. And once the candicate feel confident, he can ask to join a team. I think this is a good opportunity to practice my English and I can learn more about the products mathworks are doing during the process.
+Is that right?  
 He also told me that I will always have the resources for answering customer's questions.  
 What are the challanges of this job?  
 What kind of projects the team is doing?  
