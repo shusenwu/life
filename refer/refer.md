@@ -4,7 +4,7 @@
 可以2020校招，也可以是具体岗位。  
 【同一职位无法重复内推】  
 每天都检查邮箱所以会在【24小时】内回复   内推需要以下信息：    
-Jobid: 可以在这个网站找 https://www.amazon.jobs/en 也可以在linkedin找 * 可以推多个  
+- Jobid: 可以在这个网站找 https://www.amazon.jobs/en 也可以在linkedin找 * 可以推多个  
 - First and last name *
 - Email *
 - Phone number *
