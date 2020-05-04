@@ -30,5 +30,5 @@ I don't like ORM at all. Even though Squeryl is more concise and easier to use t
 No matter the advantages of it like you don't need to change the codes when you change to use another SQL database like Oracle, I don't 
 like ORM as it is fussy than SQL. 
 
-To start the service, I used jetty. (I don't really care about it is using Tomcat or jetty or Jboss.)
+To start the service, I used jetty. 
 ![blog-pic](https://raw.githubusercontent.com/shusenwu/life/master/Scala/blog.png)
