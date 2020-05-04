@@ -6,12 +6,12 @@ As a beginner of Scala, I had been looking around for good resources which suit 
 I first watched the videos of the sytax, [Link](https://www.bilibili.com/video/av77135111/). This course contains 100
 videos, each of them is around 5~8 mins. Most of the time I set the 2x speed when I watched them, but I usually stopped it and typed on my Scala 
 repl to test the codes. [4 days] 
-
+![videos-pic](https://github.com/shusenwu/life/blob/master/Scala/scala-videos.png)
 ### Second Step 
 After I watched all of the videos, I started to read the book [<\<Functional Programming in Scala>>](https://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653), 
-From this book, I learned what is functional programming, what is the benefits of using FP and the philosophy of FP. Those things are not 
-covered by the videos but they are the most important parts. [1~2 weeks for 4 cheapters]
-
+From this book, I learned what is functional programming, what are the benefits of using FP and the philosophy of FP. Those things are not 
+covered by the videos but they are the most important parts. [1~2 weeks for 4 cheapters]  
+![BookPic](https://images.manning.com/720/960/resize/book/2/a2ed920-d6ed-48fb-8f18-b051b7a09a2a/bjarnason.png)
 ### Third Step
 When I done reading the first 4 cheapters, I started to practice some (3~5) leetcode questions by using Scala. [3 days]  
 
@@ -31,4 +31,4 @@ No matter the advantages of it like you don't need to change the codes when you 
 like ORM as it is fussy than SQL. 
 
 To start the service, I used jetty. (I don't really care about it is using Tomcat or jetty or Jboss.)
-
+![blog-pic](https://raw.githubusercontent.com/shusenwu/life/master/Scala/blog.png)
